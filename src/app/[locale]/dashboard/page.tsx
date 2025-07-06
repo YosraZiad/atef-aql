@@ -1,6 +1,6 @@
 import { AppSidebar } from "@/components/app-sidebar"
-import { ChartAreaInteractive } from "@/components/chart-area-interactive"
-import { DataTable } from "@/components/data-table"
+//import { ChartAreaInteractive } from "@/components/chart-area-interactive"
+//import { DataTable } from "@/components/data-table"
 import { SectionCards } from "@/components/section-cards"
 import { SiteHeader } from "@/components/site-header"
 
@@ -11,13 +11,13 @@ import {
   SidebarProvider,
 } from "@/components/ui/sidebar"
 
-import { ModeToggle } from "@/components/mode-toggle"
+//import { ModeToggle } from "@/components/mode-toggle"
 
-import data from "./data.json"
+//import data from "./data.json"
 
 export default function Page() {
-   const t = useTranslations(); // "dashboard" هو اسم namespace في ملف الترجمة
-  const locale = useLocale();
+  //const t = useTranslations(); // "dashboard" هو اسم namespace في ملف الترجمة
+  //const locale = useLocale();
   return (
     <SidebarProvider
       style={

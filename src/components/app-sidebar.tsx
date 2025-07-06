@@ -3,12 +3,12 @@
 import * as React from "react"
 import { useTranslations } from "next-intl"
 import {
-  IconCamera,
+  //IconCamera,
   IconChartBar,
   IconDashboard,
   IconDatabase,
-  IconFileAi,
-  IconFileDescription,
+  //IconFileAi,
+  //IconFileDescription,
   IconFileWord,
   IconFolder,
   IconHelp,
@@ -108,7 +108,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   }
 
   return (
-    <Sidebar collapsible="offcanvas" {...props}>
+    <Sidebar id="app-sidebar" collapsible="offcanvas" {...props}>
       <SidebarHeader>
         <SidebarMenu>
           <SidebarMenuItem>

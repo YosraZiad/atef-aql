@@ -1,0 +1,9 @@
+module.exports = {
+
+"[project]/messages/ar.json (json)": ((__turbopack_context__) => {
+
+var { g: global, __dirname } = __turbopack_context__;
+{
+__turbopack_context__.v(JSON.parse("{\"LanguageSwitcher\":{\"language\":\"اللغة\",\"english\":\"الإنجليزية\",\"arabic\":\"العربية\"},\"dashboard\":{\"siteHeaderTitle\":\"لوحة التحكم\",\"sectionCardsTitle\":\"بطاقات الأقسام\"},\"greeting\":\"مرحبا\",\"language\":\"العربية\",\"siteHeaderTitle\":\"لوحة التحكم\",\"sectionCardsTitle\":\"بطاقات الأقسام\",\"companyName\":\"شركة أكمي\",\"navMain\":{\"dashboard\":\"لوحة التحكم\",\"lifecycle\":\"دورة الحياة\",\"analytics\":\"تحليلات\",\"projects\":\"المشاريع\",\"team\":\"الفريق\"},\"navClouds\":{\"capture\":\"التقاط\",\"proposal\":\"مقترح\",\"prompts\":\"موجهات\",\"activeProposals\":\"المقترحات النشطة\",\"archived\":\"المؤرشفة\"},\"navSecondary\":{\"settings\":\"الإعدادات\",\"getHelp\":\"مساعدة\",\"search\":\"بحث\"},\"documents\":{\"dataLibrary\":\"مكتبة البيانات\",\"reports\":\"التقارير\",\"wordAssistant\":\"مساعد Word\"},\"user\":{\"name\":\"شاد سي إن\"}}"));}}),
+
+};

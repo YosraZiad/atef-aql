@@ -1,0 +1,9 @@
+module.exports = {
+
+"[project]/messages/en.json (json)": ((__turbopack_context__) => {
+
+var { g: global, __dirname } = __turbopack_context__;
+{
+__turbopack_context__.v(JSON.parse("{\"LanguageSwitcher\":{\"language\":\"Language\",\"english\":\"English\",\"arabic\":\"Arabic\"},\"dashboard\":{\"siteHeaderTitle\":\"Dashboard\",\"sectionCardsTitle\":\"Section Cards\"},\"greeting\":\"Hello\",\"language\":\"English\",\"companyName\":\"Acme Inc.\",\"navMain\":{\"dashboard\":\"Dashboard\",\"lifecycle\":\"Lifecycle\",\"analytics\":\"Analytics\",\"projects\":\"Projects\",\"team\":\"Team\"},\"navClouds\":{\"capture\":\"Capture\",\"proposal\":\"Proposal\",\"prompts\":\"Prompts\",\"activeProposals\":\"Active Proposals\",\"archived\":\"Archived\"},\"navSecondary\":{\"settings\":\"Settings\",\"getHelp\":\"Get Help\",\"search\":\"Search\"},\"documents\":{\"dataLibrary\":\"Data Library\",\"reports\":\"Reports\",\"wordAssistant\":\"Word Assistant\"},\"user\":{\"name\":\"shadcn\"}}"));}}),
+
+};
